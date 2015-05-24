@@ -15,7 +15,7 @@ for encode
 for decode
 
 ```
-./test/php php php_test.php -m dncode -c 0f2dbb771c9de6c5ca312915e7e10e29
+./test/php php php_test.php -m decode -c 0f2dbb771c9de6c5ca312915e7e10e29
 # then will output
 123456
 
